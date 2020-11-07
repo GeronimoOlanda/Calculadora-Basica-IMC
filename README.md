@@ -1,2 +1,6 @@
-# Calculadora-Basica-IMC
-Calculadora basica utilizando, HTML,CSS3,JS
+## Calculadora de IMC
+#### Uma Simples Calculadora para treinar as seguintes linguagens:
+
+* HTML5
+* CSS3
+* JavaScript
